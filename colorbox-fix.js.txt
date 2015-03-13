@@ -1,3 +1,4 @@
 jQuery(document).ready(function($) {
   $("a[href$='.jpeg'], a[href$='.jpg'], a[href$='.png'], a[href$='.gif']")
+   .attr('rel', 'gallery')
 })(jQuery);
