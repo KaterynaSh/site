@@ -179,3 +179,4 @@ Git - для новичков
 #1 - основы https://www.youtube.com/watch?v=PEKN8NtBDQ0
 #2 - первые коммиты https://www.youtube.com/watch?v=9d5bJc8o7MA
 #3 - работаем с github https://www.youtube.com/watch?v=vFj2-bKGwkw
+#4 - мерж веток https://www.youtube.com/watch?v=ZFYhW3kBjnE
