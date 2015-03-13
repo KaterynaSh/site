@@ -1,0 +1,181 @@
+https://drive.google.com/folderview?id=0B_nwG0NGbdDGTjJtLXZBeFdhNm8&usp=sharing
+
+Урок1
+
+1. Встановлення теми оформлення ZEN - https://www.drupal.org/project/zen
+Встановленн та налаштування підтеми ZEN - файл zen\STARTERKIT\ в папці теми
+
+https://www.youtube.com/watch?v=FAkvkUsm6D0
+
+
+2. Додавання власних блоків в тему - http://www.inmotionhosting.com/support/edu/drupal-7/blocks-and-regions
+
+https://www.youtube.com/watch?v=S_eAdrDHdmE
+
+CKEditor - WYSIWYG HTML editor
+
+https://www.drupal.org/project/ckeditor
+
+
+3.Створення типу контенту Product - https://www.drupalgardens.com/documentation/content/content-type/custom
+
+http://site-made.ru/content/drupal-cckviews-kontent-tipy-vyvod-stranits-cherez-views-sozdanie-galerei-sotrudnikov
+
+       http://drupalguide.ru/videos/tipy-materialov-i-polya-v-drupal-7// найкраще
+
+4.Темізація типу контенту Product - https://www.drupal.org/node/17565
+
+
+Урок 2
+
+
+1. Встановлення модуля Views
+
+http://drupalguide.ru/articles/izuchaem-modul-views-drupal-7-uroven-12
+
+Таксономия.http://niklan.net/blog/15
+
+2. Створення вювки Сatalog у вигляді таблиці товарів з фільтром і сортуваннм
+
+3. Написання власного модуля
+http://drupalguide.ru/articles/pishem-modul-form-api-v-drupal-7-uroven-21-chast-1
+
+Пишем модуль, Form API в Drupal 7 (уровень 2.1). Часть 1
+http://drupalguide.ru/articles/pishem-modul-form-api-v-drupal-7-uroven-21-chast-1
+
+Пишем модуль, Form API в Drupal 7 (уровень 2.1). Часть 2
+http://drupalguide.ru/articles/pishem-modul-form-api-v-drupal-7-uroven-21-chast-2
+
+Справочник Forms API
+http://api.drupal.ru/api/file/developer/topics/forms_api_reference.html/6
+
+Создание модуля под Drupal 7. Часть 1 Створення таблиці в файлі *.install
+http://habrahabr.ru/post/200340/
+
+Создание модуля под Drupal 7. Часть 2
+http://habrahabr.ru/post/200382/
+
+Программное создание и программный вывод блоков в Drupal 7
+http://drupal-way.org/ru/drupal-how-to/programmnoe-sozdanie-i-programmnyy-vyvod-blokov-v-drupal-7
+
+Создание табов
+http://drupal-learning.com/blog/ispolzovanie-hookmenu-dlya-sozdaniya-stranic-v-drupal-7
+
+Хуки блоков
+http://205k.in/2011/05/modul-bloka-chast-vtoraya
+
+Модуль для вывода рубрик
+http://205k.in/2011/06/modul-bloka-chast-3
+
+Создание файла .info
+http://205k.in/2011/05/sozdanie-fayla-info
+
+Работа с базой данных в Drupal 7
+http://xandeadx.ru/blog/drupal/88
+
+Работа с базой данных в седьмом друпале.
+http://php-include.ru/stati/database-api-drupal-7rabota-s-bazoi-dannykh-v-sedmom-drupale
+
+Вставка, виборка, удаление..
+http://drupalguide.ru/articles
+
+Написання модуля на курсах
+http://drupal.aspcode.net/ppst/63547274810018958010102/my-pager-code-doesnt-work
+
+Урок 3
+
+1.Встановлення модуля Panels
+
+https://www.youtube.com/watch?v=Kxo-Ff1BzaM
+
+2.Написання Ctools Content Type для панелей
+
+http://drupalace.ru/lesson/pishem-plagin-k-panels-s-pomoshchyu-ctools
+
+
+http://internetdevels.ua/blog/ctools-content-type
+
+http://www.badscript.net/blogpost/kak-sozdat-svoy-ctools-content-type-58
+
+
+Урок 4 
+
+1. Створення власної таблиці в базі даних
+
+2. Створення власних Entity
+
+3. Написання форми для додавання і редагування Entity
+
+http://xandeadx.ru/blog/drupal/352
+
+
+Написання інтернет магазину 
+https://www.youtube.com/watch?v=WnuhbFwsJ3M створення горизонтального меню
+http://getbootstrap.com/2.3.2/base-css.html#icons іконки
+
+
+https://www.youtube.com/watch?v=2CilsEvNlKc   Drupal 7 понимание и настройка Таксономии и Меню в 3 шага 
+https://www.youtube.com/watch?v=YgOTdBZTl6k
+
+http://poleshuk.ru/kak-dobavit-novyj-region-v-drupal-7/ створення регіонів в drupal 7
+
+http://shvetsgroup.com/ru/blog/10-steps-to-drupal-forms 10 шагов к постижению форм в Друпале
+
+http://php-include.ru/stati/form-api-sozdanie-polzovatelskih-form-v-drupal  Form API. Создание пользовательских форм в Drupal
+
+http://drupal.madamin.com/tutorial/sozdanie-stranicy-ili-bloka-views-s-poslednimi-novostyami-v-drupal-7
+
+http://zp.eraparts.com.ua/brand/AMC.html бренди
+
+http://www.autoklad.ua/pages/dostavka/ сайт автозапчастин
+
+http://xandeadx.ru/blog/drupal/567
+https://www.youtube.com/watch?v=2Yk6rre3vi8  Drupal Поиск с помощью Views
+https://www.youtube.com/watch?v=YgX7YnSM9mw  Cоздание каталога товаров на Drupal 7 с неограниченным уровнем вложенности терминов.
+
+http://www.drupal.ru/node/109359 Банальный вопрос. Как присвоить роль через rules?
+
+https://www.youtube.com/watch?v=KH7NpF9TOWg Drupal Auto Assign Role Module: Control your Drupal roles 
+http://www.zyxware.com/articles/4277/drupal-how-to-create-a-custom-view-tab-in-drupal-7-my-account-page [Drupal] How to create a custom view tab in Drupal 7 my account page?
+
+http://dreamr1der.ru/drupal7_login_and_registration
+
+http://cmspress.info/drupal/video/4016 NodeOne. Вывод отправленных данных Webform в видах
+
+http://dreamr1der.ru/drupal_webform_oneclick_order форма заказа
+
+http://www.master-web.info/dropdown-menu-to-any-drupal-theme/  Простой способ добавить выпадающее меню к любой теме Drupal
+
+http://drupal.stackexchange.com/questions/65616/how-to-include-a-custom-menu-in-page-tpl How to include a custom menu in page.tpl
+
+
+
+http://gavzav.ru/blog/sozdanie-oprosov-vo-vsplyvayushchem-okne-glava-1 Создание опросов во всплывающем окне. Глава 1
+
+http://gavzav.ru/blog/sozdaem-blog-na-drupal-glava-3-moduli-wysiwyg-quote-email-registration-captcha-i-ulogin Создаем блог на Drupal. Глава 3. Модули Wysiwyg, Quote, Email Registration, Captcha и uLogin
+
+Создаем блог на Drupal. Глава 12. RSS и прочая подписка
+
+http://gavzav.ru/blog/sozdaem-blog-na-drupal-glava-12-rss-i-prochaya-podpiska
+
+
+Drupal SEO, часть 1.2. Модуль PathAuto. Работа с путями. http://drupalguide.ru/videos/drupal-seo-chast-12-modul-pathauto-rabota-s-putyami
+Drupal SEO. Модуль GlobalRedirect. Работа с путями. Часть 1 - Видеоуроки по Drupal  http://drupalguide.ru/videos/drupal-seo-chast-11-rabota-s-putyami-modul-globalredirect
+
+Темизация, часть 3. Препроцессы и регионы темы в Друпал. http://drupalguide.ru/videos/temizaciya-chast-3-preprocessy-i-regiony-temy-v-drupal 
+
+
+Уроки Drupal 7
+http://drupal-learning.com/lesson/vvedenie-i-obzor-demo-sayta Изучаем модуль Views
+http://drupal-learning.com/blog/obrabotka-bolshogo-csv-fayla-s-pomoshchyu-batch-api сайт 
+
+Переглянула
+Основы Features + Drush & Git http://podrupalim.com/zametki/drupal-kafe/osnovy-features-drush-git
+Слайдшоу для Друпал http://podrupalim.com/zametki/podskazki/slaydshou-dlya-drupal
+Подсвечиваем пункты меню на страницах материалов http://podrupalim.com/zametki/podskazki/podsvechivaem-punkty-menyu-na-stranicah-materialov
+Опросник http://podrupalim.com/osnovy-drupal-7/oprosnik
+
+Git - для новичков
+#1 - основы https://www.youtube.com/watch?v=PEKN8NtBDQ0
+#2 - первые коммиты https://www.youtube.com/watch?v=9d5bJc8o7MA
+#3 - работаем с github https://www.youtube.com/watch?v=vFj2-bKGwkw
